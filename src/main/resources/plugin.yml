@@ -1,0 +1,8 @@
+name: HitMarkerCleaner
+version: 1.0
+main: penta.plugins.HitMarkerCleaner
+api-version: 1.20
+commands:
+  cleanhitmarkers:
+    description: Removes stuck hit markers around the player.
+    usage: /cleanhitmarkers
