@@ -34,4 +34,4 @@ Within a 10-block radius around the player, the plugin detects and removes speci
 ---
 
 ## Author
-Developed by **Penta** as part of ongoing Minecraft plugin development projects.
+This plugin was developed by **Penta** and is shown here for demonstration purposes. Rights reserved.
